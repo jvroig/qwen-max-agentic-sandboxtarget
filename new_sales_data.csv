@@ -1,0 +1,1 @@
+{{ read_file('/home/jvroig/Dev/qwen_playground/agentic_demo/raw_data/new_sales_data.csv') }}
