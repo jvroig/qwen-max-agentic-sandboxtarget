@@ -1,1 +1,13 @@
-{{ read_file('/home/jvroig/Dev/qwen_playground/agentic_demo/raw_data/sales_data.csv') }}
+OrderID,CustomerName,Product,Quantity,Price,OrderDate
+1001,John Doe,Laptop,1,999.99,2023-01-01
+1002,Jane Smith,Smartphone,2,499.99,2023-01-02
+1003,Alice Johnson,Headphones,3,59.99,2023-01-03
+1004,Bob Brown,Tablet,1,299.99,2023-01-04
+1005,Charlie Davis,Monitor,2,199.99,2023-01-05
+1006,Eve White,Keyboard,4,49.99,2023-01-06
+1007,Frank Green,Mouse,5,19.99,2023-01-07
+1008,Grace Black,Printer,1,149.99,2023-01-08
+1009,Hannah Blue,USB Drive,10,9.99,2023-01-09
+1010,Ian Red,Webcam,2,79.99,2023-01-10
+1011,Julia Yellow,Speaker,3,89.99,2023-01-11
+1012,Kevin Orange,Router,1,69.99,2023-01-12
