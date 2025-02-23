@@ -1,0 +1,13 @@
+TransID,CustNam,Item,Qty,Price,OrderDate
+101,John Doe,Desk Lamp,2,39.99,2023-02-01
+102,Jane Smith,Notebook,5,9.99,2023-02-02
+103,Alice Johnson,Chair,1,129.99,2023-02-03
+104,Bob Brown,Desk,1,199.99,2023-02-04
+105,Charlie Davis,Bookshelf,3,79.99,2023-02-05
+106,Eve White,File Cabinet,2,89.99,2023-02-06
+107,Frank Green,Monitor Stand,1,49.99,2023-02-07
+108,Grace Black,Power Strip,4,14.99,2023-02-08
+109,Hannah Blue,Cable Organizer,6,7.99,2023-02-09
+110,Ian Red,Wall Clock,1,29.99,2023-02-10
+111,Julia Yellow,Desk Mat,2,19.99,2023-02-11
+112,Kevin Orange,Whiteboard,1,59.99,2023-02-12
